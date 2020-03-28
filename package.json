@@ -1,0 +1,19 @@
+{
+  "name": "gitHub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "_jquery@3.4.1@jquery": "^3.4.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
